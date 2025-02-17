@@ -29,9 +29,9 @@ Estou participando do processo Devolva+ Back end Java.
 ## Projetos
 
 ### DesenvolvaMais-ADA-POOI
-Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
+Descrição do projeto que participei: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
 
 ## Contato
-Email: ronaldogiorgio@hotmail.com
+Email: ronaldogiorgio@hotmai.com
 
 
