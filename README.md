@@ -1,4 +1,4 @@
-![Logo Desenvolvedor Back end Java](https://link-para-seu-logo.gif)
+![Logo Desenvolvedor Back end Java](https://github.com/rdgeorge2/Ronaldo-Di-George/blob/main/Desenvolvedor%20Back%20end%20Java%20logo.png)
 
 # Ronaldo Di George
 
@@ -30,6 +30,11 @@ Estou participando do processo Devolva+ Back end java.
 
 ## Projetos
 ### DesenvolvaMais-ADA-POOI
+Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
+
+## Contato
+**Email:** ronaldogiorgio@hotmail.com
+
 Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
 
 ## Contato
