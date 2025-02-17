@@ -1,4 +1,4 @@
-![Logo Desenvolvedor Back end Java](https://github.com/rdgeorge2/Ronaldo-Di-George/blob/main/Desenvolvedor%20Back%20end%20Java%20logo.png)
+
 
 # Ronaldo Di George
 
