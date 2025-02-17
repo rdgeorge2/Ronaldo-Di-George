@@ -33,7 +33,6 @@ Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igo
 ## Contato
 **Email:** ronaldogiorgio@hotmail.com
 
-## Contato
-**Email:** ronaldogiorgio@hotmail.com
+
 
 
