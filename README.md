@@ -24,15 +24,14 @@ Desenvolvedor Back end Java
 ## Formação
 - **Sistema de Informação** – IPEP, concluído em 2010
 
-Estou participando do processo Devolva+ Back end java.
+Estou participando do processo Devolva+ Back end Java.
 
 ## Projetos
+
 ### DesenvolvaMais-ADA-POOI
 Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
 
 ## Contato
-**Email:** ronaldogiorgio@hotmail.com
-
-
+Email: ronaldogiorgio@hotmail.com
 
 
