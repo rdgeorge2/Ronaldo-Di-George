@@ -1,7 +1,12 @@
-# DesenvolvaMais-ADA-POOI
+![Logo Desenvolvedor Back end Java](https://link-para-seu-logo.gif)
 
-## Sobre o Projeto
-Projeto desenvolvido durante o processo Devolva+ Back end java. Este projeto tem como objetivo demonstrar habilidades em Java, JavaScript, HTML, Visual Basic, SQL e Linux, seguindo boas práticas de programação e padrões de projeto.
+# Ronaldo Di George
+
+## Transição de Carreira
+Estou em transição de carreira, após mais de 12 anos na área de vendas.
+
+## Interesse
+Desenvolvedor Back end Java
 
 ## Habilidades e Tecnologias
 - **Java**
@@ -21,11 +26,13 @@ Projeto desenvolvido durante o processo Devolva+ Back end java. Este projeto tem
 ## Formação
 - **Sistema de Informação** – IPEP, concluído em 2010
 
+Estou participando do processo Devolva+ Back end java.
+
 ## Projetos
 ### DesenvolvaMais-ADA-POOI
-Descrição do projeto: [Link para o repositório do projeto]
+Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
 
-## Autor
-**Ronaldo Di George**
+## Contato
+**Email:** ronaldogiorgio@hotmail.com
 
-Se precisar de mais alguma informação ou alteração no `README.md`, é só me avisar!
+
