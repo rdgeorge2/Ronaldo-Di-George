@@ -1,5 +1,3 @@
-
-
 # Ronaldo Di George
 
 ## Transição de Carreira
@@ -34,8 +32,6 @@ Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igo
 
 ## Contato
 **Email:** ronaldogiorgio@hotmail.com
-
-Descrição do projeto: [ProjetosDesenvolvaMais-ADA-POOI](https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)
 
 ## Contato
 **Email:** ronaldogiorgio@hotmail.com
