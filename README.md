@@ -46,10 +46,10 @@ Atualmente participando do processo seletivo **Devolva+** para a vaga de Back-En
 ## Projetos que Participei:
 
 1. **DesenvolvaMais-ADA-POOI**  
-   Link do Projeto: (https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI)](#)  
+ - Link do Projeto: (https://github.com/igoreloidiasbranco/ProjetosDesenvolvaMais-ADA-POOI) 
    
 2. **POO2-E-Commerce**  
-   Link do Projeto : (https://github.com/LuizCarlossr/POO2-E-Commerce)](#)  
+ - Link do Projeto : (https://github.com/LuizCarlossr/POO2-E-Commerce)
   
 ---
 
