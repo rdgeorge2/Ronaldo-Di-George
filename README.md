@@ -51,7 +51,7 @@ Atualmente participando do processo seletivo **Devolva+** para a vaga de Back-En
 2. **POO2-E-Commerce**  
  - Link do Projeto : https://github.com/LuizCarlossr/POO2-E-Commerce
 
-3 **Gerenciador-de-Tarefas**  
+3. **Gerenciador-de-Tarefas**  
  - Link do Projeto : https://github.com/rdgeorge2/Gerenciador-de-Tarefas
 ---
 
