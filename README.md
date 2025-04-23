@@ -55,7 +55,7 @@ Atualmente participando do processo seletivo **Devolva+** para a vaga de Back-En
  - Link do Projeto : https://github.com/rdgeorge2/Gerenciador-de-Tarefas
  
 4.  **ProjetoWebII**  
- - Link do Projeto : https://github.com/igoreloidiasbranco/ProjetoWebII)**
+ - Link do Projeto : https://github.com/igoreloidiasbranco/ProjetoWebII
   --- 
 
 
